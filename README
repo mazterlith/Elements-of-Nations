@@ -19,3 +19,99 @@ Elements must apply to:
 	Biomes
 	Military strategy (tech & unit type)
 	Economic strategy (resource & pop distribution)
+
+	Idea proposed:	floating islands
+			larger for high wind areas
+			potentially build cities on them
+
+	Idea proposed:	wind currents
+			could move floating islands and troops around
+			wind priests could control wind
+
+	-> Biomes:
+		Neutral (50% Fire, 50% Earth, 50% Metal):
+			Patchy grass plains with occasional trees.
+			Something else.
+	
+		Fire:
+			60%:
+				Fire brooks.
+				All plants look reddish/brownish.
+				Ground looks lighter.
+		
+			70%:
+				Fire rivers.
+				More red and brown motif.
+			80%:							(dryer - looking)
+				Fire lakes.
+				Plants have brambles on them.
+				Harsh-looking, like it looks hard to live.
+			90%:
+				Half fire, half land.
+			100%:
+				Fire sea with islands.
+
+		Water:
+			60%:
+				Water brooks.
+				All plants look darker brown and green.
+				Ground looks darker.
+			70%:
+				Water rivers.
+				Much darker, blue flowers?
+			80%:							(marshy)
+				Water lakes and marshy.
+				Plants are more curvy.
+				Deceptive-looking, looks like you could be next prey.
+			90%:
+				Half water, half land.
+			100%:
+				Water sea with islands.
+
+		Earth:
+			60%:
+				
+			70%:
+				
+			80%:							()
+				
+			90%:
+				
+			100%:
+
+
+		Wind:
+			60%:
+				
+			70%:
+				
+			80%:							()
+				
+			90%:
+				
+			100%:
+				
+
+		Metal:
+			60%:
+				
+			70%:
+				
+			80%:							(badlands)
+				
+			90%:
+				
+			100%:
+				
+
+		Wood:
+			60%:
+				
+			70%:
+				
+			80%:							(jungley)
+				
+			90%:
+				
+			100%:
+				
